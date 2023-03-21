@@ -1,5 +1,4 @@
-# Resume 
-## HTML, CSS, C++, Python
+# Resume; HTML, CSS, C++, Python
 Catherine Xie
 
 This repository contains several software development projects.
