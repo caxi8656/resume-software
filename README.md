@@ -1,12 +1,13 @@
-# Personal Website, HTML and CSS
+# Resume 
+## HTML, CSS, C++, Python
 Catherine Xie
 
-This repository contains the code for my personal website, built using HTML and CSS. The website features a background image overlaid with text introducing myself and my background as a Computer Science student at CU Boulder.
+This repository contains several software development projects.
 
-In addition to HTML and CSS, I have experience with C++ and Python and have created several projects that can be found on my GitHub profile. Feel free to take a look at the code or visit the live site to learn more about me and my work.
+ * `Code-Optimization` Contains project that optimizatizes memory, coded with C++.
+ 
+ * `Cryptocurrency` Contains project that simulates transfer of cryptocurrency units, coded with C++.
+ 
+ * `Interactive-Animation` Contains file for an interactive animation, coded with Python.
 
- * `personal_website.html:` Contains HTML file for personal website.
-
- * `personal_website.css:` Contains CSS file for personal website.
-
- * `wa_img:` Contains the `person_website.png` image that is used as the background image for personal website.
+ * `Personal-Website` Contains file for my personal website, coded with HTML and CSS.
