@@ -1,0 +1,49 @@
+body{
+    background-image: url('wa_img/personal_website.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+    background-attachment: fixed;
+  
+    height: 90vh;
+}
+
+html {
+    height: cover;
+    padding: 0;
+    margin: 0;
+}
+
+#cover {
+    background-color: white;
+    height: 50vh;
+    margin-top: 90vh;
+    padding: 20px;
+  }
+
+#overlay1 {
+    color:black;
+    position: fixed;
+    top: 30px;
+    right: 350px;
+    font-size: 45px;
+}
+
+#overlay2 {
+    font-size:25px;
+    color: black;
+    position:fixed;
+    top: 100px;
+    right:110px;
+    text-align: right;
+}
+
+#overlay3 {
+    font-size:25px;
+    color: black;
+    position: fixed;
+    top: 250px;
+    right: 110px;
+    text-align: right;
+}
