@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -g  -rdynamic CMakeFiles/run_tests.dir/tests/test.cpp.o CMakeFiles/run_tests.dir/code_1/Block.cpp.o CMakeFiles/run_tests.dir/code_1/Blockchain.cpp.o CMakeFiles/run_tests.dir/code_1/Transaction.cpp.o CMakeFiles/run_tests.dir/code_1/sha256.cpp.o  -o run_tests  -lgtest_main -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

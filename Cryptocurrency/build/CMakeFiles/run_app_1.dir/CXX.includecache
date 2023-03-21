@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/project-2270-final-project-noname/code_1/Block.cpp
+iostream
+-
+sstream
+-
+cstdlib
+-
+Transaction.hpp
+/home/jovyan/project-2270-final-project-noname/code_1/Transaction.hpp
+Block.hpp
+/home/jovyan/project-2270-final-project-noname/code_1/Block.hpp
+sha256.hpp
+/home/jovyan/project-2270-final-project-noname/code_1/sha256.hpp
+
+/home/jovyan/project-2270-final-project-noname/code_1/Block.hpp
+iostream
+-
+vector
+-
+Transaction.hpp
+/home/jovyan/project-2270-final-project-noname/code_1/Transaction.hpp
+
+/home/jovyan/project-2270-final-project-noname/code_1/Transaction.hpp
+iostream
+-
+
+/home/jovyan/project-2270-final-project-noname/code_1/sha256.hpp
+string
+-
+
