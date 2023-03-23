@@ -10,3 +10,5 @@ In addition to HTML and CSS, I have experience with C++ and Python and have crea
  * `personal_website.css:` Contains CSS file for personal website.
 
  * `wa_img:` Contains the `person_website.png` image that is used as the background image for personal website.
+
+Link to website, hosted by GitHub: https://caxi8656.github.io/personal_website.html
