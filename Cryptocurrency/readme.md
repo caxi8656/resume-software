@@ -24,3 +24,5 @@ Each payment has the information of previous senders tied with it, to ensure tha
              transfers "BTC" from one user to another. 
  
  * `tests:` Contains additional testing of the files. 
+ 
+ To execute, go to build file and input './run_tests'.
