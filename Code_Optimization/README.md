@@ -7,4 +7,4 @@ This project deals optimizing memory intensive code in an image processing appli
   * `Filter.h` and `Filter.cpp` Contain the Filter class implementation, is where optimization occurs.
   * `boats.bmp` and `blocks-small.bmp` Contain the test images to calculate runtime.
 
-After optimizing, I decreased the CPE from approximately 700 to 161. Making it four times faster.
+After optimizing, I decreased the CPE from approximately 700 to 161. Making it four times faster. To run, input 'make'.
